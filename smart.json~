@@ -1,0 +1,10 @@
+{
+  "name": "rangy",
+  "description": "A cross-browser JavaScript range and selection library. It provides a simple standards-based API for performing common DOM Range and Selection tasks in all major browsers.",
+  "homepage": "https://github.com/arunhedcet/rangy.git",
+  "author": "Arun T K",
+  "version": "0.0.1",
+  "git": "https://github.com/arunhedcet/rangy.git",
+  "packages": { }
+}
+
